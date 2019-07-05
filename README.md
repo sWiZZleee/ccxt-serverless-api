@@ -1,4 +1,4 @@
-# Dam-Serverless-Api
+# CCXT-Serverless-Api
 
 This is a migration of an Express backend API I had created for a proof concept/demo project to a serverless architecture using Azure functions. Here we are able to keep our backend infrastructure entirely independent of our frontend, even though this is definitely achievable with other infrastructure design layouts using Node.js integrating in such a way makes it much more maintainable now and on a much more scalable level later on with Azure's toolbox of integrated monitoring tools.
 
